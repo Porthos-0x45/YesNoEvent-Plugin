@@ -1,0 +1,12 @@
+name: YesNoEvent
+version: '${project.version}'
+main: me.pixel.yesno.Main
+api-version: 1.16
+authors: [ PixelDev ]
+description: Yes no event plugin
+
+commands:
+  yesno:
+    description: Yes no event
+    usage: /<command>
+    permission: yesno.event

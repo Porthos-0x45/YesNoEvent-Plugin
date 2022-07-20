@@ -1,0 +1,26 @@
+# Config file for YesNoEventPlugin
+# Author: Pixel
+
+# World name where the event is
+world: "world"
+
+# Messages
+red: "&0&l[&9&lEvent&0&l]&f &cRED - Wrong"
+green: "&0&l[&9&lEvent&0&l]&f &aGREEN - Wrong"
+
+data:
+  material: # You can change those blocks to your own personaliazation
+    green: "GREEN_TERRACOTTA"
+    red: "RED_TERRACOTTA"
+    center: "BROWN_CONCRETE"
+  area: # DO NOT TOUCH!!!! This is for data saving.
+    lowX: 0
+    lowY: 0
+    lowZ: 0
+    highX: 0
+    highY: 0
+    highZ: 0
+  spawn:
+    x: 0
+    y: 0
+    z: 0
